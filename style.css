@@ -1,0 +1,8 @@
+#canvas1 {
+    border: 3px solid black;
+    position: absolute;
+    inset: 50%;
+    translate: -50% -50%;
+    width: 500px;
+    aspect-ratio: 0.5;
+}
